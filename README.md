@@ -1,11 +1,6 @@
 # React-boilerplate
 
-Here is a one starting point for a React project.
-
-Besides React, it has Express, Webpack, Mocha and React Router v4.
-
-A (very!) bare-bones app has been provided in the app directory.
-There is one sample test that I copied from https://survivejs.com/webpack/techniques/testing/
+Somewhat more lightweight alternative to create-react-app
 
 To install
 ```
